@@ -9,6 +9,7 @@ The goal of this project is to perform basic data analysis, summarize disease fr
 - Python
 - Pandas
 - Matplotlib
+- jupyter notebook
 
 ## Dataset
 The dataset contains weekly records of disease cases with the following columns:
