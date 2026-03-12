@@ -78,5 +78,6 @@ Through this project I learned:
 - Apply machine learning for disease prediction
 
 ## Author
-Arthi Tamil Selvi.y 
+Arthi Tamil Selvi.y,
+
 B.Sc Nursing Graduate transitioning into Data Science
